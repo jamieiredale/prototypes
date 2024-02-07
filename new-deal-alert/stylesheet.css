@@ -24,7 +24,7 @@ a {
   .hero-section {
     width: 100%;
     height: 160px;
-    background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.00) 0%, #FFF 100%), url(/images/bgimage.png), #fff 20% / contain no-repeat;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.00) 0%, #FFF 100%), url(./images/bgimage.png), #fff 20% / contain no-repeat;
   
     background-blend-mode: luminosity, normal, 1x;
     background-repeat: no-repeat;
